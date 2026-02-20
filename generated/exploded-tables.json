@@ -1,0 +1,2475 @@
+{
+  "/tables/IPA-unicode-range.uti": ["/tables/IPA-unicode-range.uti"],
+  "/tables/IPA.utb": [
+    "/tables/IPA.utb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/Lv-Lv-g1.utb": [
+    "/tables/Lv-Lv-g1.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/Pl-Pl-g1.utb": [
+    "/tables/Pl-Pl-g1.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/spaces.uti"
+  ],
+  "/tables/afr-za-g1.ctb": [
+    "/tables/afr-za-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/afr-za-g2.ctb": [
+    "/tables/afr-za-g2.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/afr-za-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/akk-borger.utb": [
+    "/tables/akk-borger.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/akk.utb": [
+    "/tables/akk.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/ancient-languages-borger.utb": [
+    "/tables/ancient-languages-borger.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/uga.utb",
+    "/tables/syc.utb",
+    "/tables/akk-borger.utb",
+    "/tables/grc-international-composed.uti",
+    "/tables/grc-international-common.uti",
+    "/tables/cuneiform-transliterated.utb",
+    "/tables/hbo-cantillated-rules.uti",
+    "/tables/hbo-common-rules.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti"
+  ],
+  "/tables/ancient-languages-us.utb": [
+    "/tables/ancient-languages-us.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/uga.utb",
+    "/tables/syc.utb",
+    "/tables/akk.utb",
+    "/tables/grc-international-composed.uti",
+    "/tables/grc-international-common.uti",
+    "/tables/cuneiform-transliterated.utb",
+    "/tables/hbo-cantillated-rules.uti",
+    "/tables/hbo-common-rules.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti"
+  ],
+  "/tables/ar-ar-comp8.utb": [
+    "/tables/ar-ar-comp8.utb",
+    "/tables/countries.cti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ar-ar-g1-core.uti": [
+    "/tables/ar-ar-g1-core.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ar-ar-g1.utb": [
+    "/tables/ar-ar-g1.utb",
+    "/tables/ar-ar-math.uti",
+    "/tables/ar-ar-g1-core.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ar-ar-g2.ctb": [
+    "/tables/ar-ar-g2.ctb",
+    "/tables/ar-ar-g1-core.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ar-ar-math.uti": ["/tables/ar-ar-math.uti"],
+  "/tables/as-in-g1.utb": [
+    "/tables/as-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/bengali.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/aw-in-g1.utb": [
+    "/tables/aw-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/ba.utb": [
+    "/tables/ba.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/be-in-g1.utb": [
+    "/tables/be-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/bengali.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/bel-comp.utb": [
+    "/tables/bel-comp.utb",
+    "/tables/ru-comp8.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/loweredDigits6Dots.uti"
+  ],
+  "/tables/bel-detailed.utb": [
+    "/tables/bel-detailed.utb",
+    "/tables/ru-litbrl-detailed.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis",
+    "/tables/bel.utb"
+  ],
+  "/tables/bel.utb": [
+    "/tables/bel.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/bengali.cti": [
+    "/tables/bengali.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/bg.ctb": ["/tables/bg.ctb"],
+  "/tables/bg.dis": ["/tables/bg.dis"],
+  "/tables/bg.utb": [
+    "/tables/bg.utb",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/bh.ctb": [
+    "/tables/bh.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/bo.ctb": ["/tables/bo.ctb", "/tables/loweredDigits6Dots.uti"],
+  "/tables/boxes.ctb": ["/tables/boxes.ctb"],
+  "/tables/br-in-g1.utb": [
+    "/tables/br-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/braille-patterns.cti": ["/tables/braille-patterns.cti"],
+  "/tables/ca-chardefs.cti": [
+    "/tables/ca-chardefs.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ca-g1.ctb": [
+    "/tables/ca-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/ca-chardefs.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/chr-us-g1.ctb": [
+    "/tables/chr-us-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ckb-chardefs.cti": [
+    "/tables/ckb-chardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ckb-g1.ctb": [
+    "/tables/ckb-g1.ctb",
+    "/tables/ckb-translation.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/countries.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/ckb-chardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ckb-translation.cti": [
+    "/tables/ckb-translation.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/countries.cti"
+  ],
+  "/tables/compress.cti": ["/tables/compress.cti"],
+  "/tables/controlchars.cti": ["/tables/controlchars.cti"],
+  "/tables/cop-eg-comp8.utb": [
+    "/tables/cop-eg-comp8.utb",
+    "/tables/digits8Dots.uti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/compress.cti",
+    "/tables/spaces.uti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/cop.utb": [
+    "/tables/cop.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/corrections.cti": ["/tables/corrections.cti"],
+  "/tables/countries.cti": ["/tables/countries.cti"],
+  "/tables/critical-apparatus.uti": ["/tables/critical-apparatus.uti"],
+  "/tables/cs-chardefs.cti": [
+    "/tables/cs-chardefs.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/cs-comp8.utb": [
+    "/tables/cs-comp8.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits8Dots.uti"
+  ],
+  "/tables/cs-g1.ctb": [
+    "/tables/cs-g1.ctb",
+    "/tables/cs-translation.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/cs-chardefs.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/cs-translation.cti": [
+    "/tables/cs-translation.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/cuneiform-transliterated-compact.utb": [
+    "/tables/cuneiform-transliterated-compact.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/cuneiform-transliterated.utb": [
+    "/tables/cuneiform-transliterated.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/cy-cy-g1.utb": [
+    "/tables/cy-cy-g1.utb",
+    "/tables/countries.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/cy-cy-g2.ctb": [
+    "/tables/cy-cy-g2.ctb",
+    "/tables/cy-cy-g1.utb",
+    "/tables/countries.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/da-dk-6miscChars.cti": ["/tables/da-dk-6miscChars.cti"],
+  "/tables/da-dk-6miscChars_1993.cti": ["/tables/da-dk-6miscChars_1993.cti"],
+  "/tables/da-dk-8miscChars.cti": ["/tables/da-dk-8miscChars.cti"],
+  "/tables/da-dk-8miscChars_1993.cti": ["/tables/da-dk-8miscChars_1993.cti"],
+  "/tables/da-dk-g08.ctb": [
+    "/tables/da-dk-g08.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/da-dk-octobraille.dis"
+  ],
+  "/tables/da-dk-g08_1993.ctb": [
+    "/tables/da-dk-g08_1993.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits8Dots.uti",
+    "/tables/da-dk-octobraille_1993.dis"
+  ],
+  "/tables/da-dk-g16-lit_1993.ctb": [
+    "/tables/da-dk-g16-lit_1993.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/da-dk-6miscChars_1993.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/da-dk-octobraille_1993.dis"
+  ],
+  "/tables/da-dk-g16.ctb": [
+    "/tables/da-dk-g16.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/da-dk-6miscChars.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/da-dk-octobraille.dis"
+  ],
+  "/tables/da-dk-g16_1993.ctb": [
+    "/tables/da-dk-g16_1993.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/da-dk-6miscChars_1993.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/da-dk-octobraille_1993.dis"
+  ],
+  "/tables/da-dk-g18.ctb": [
+    "/tables/da-dk-g18.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/da-dk-octobraille.dis"
+  ],
+  "/tables/da-dk-g18_1993.ctb": [
+    "/tables/da-dk-g18_1993.ctb",
+    "/tables/da-dk-8miscChars_1993.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/digits8Dots.uti",
+    "/tables/da-dk-octobraille_1993.dis"
+  ],
+  "/tables/da-dk-g26l-lit_1993.ctb": [
+    "/tables/da-dk-g26l-lit_1993.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/da-dk-6miscChars_1993.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/da-dk-octobraille_1993.dis"
+  ],
+  "/tables/da-dk-g26l_1993.ctb": [
+    "/tables/da-dk-g26l_1993.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/da-dk-6miscChars_1993.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/da-dk-octobraille_1993.dis"
+  ],
+  "/tables/da-dk-g28l_1993.ctb": [
+    "/tables/da-dk-g28l_1993.ctb",
+    "/tables/da-dk-8miscChars_1993.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/digits8Dots.uti",
+    "/tables/da-dk-octobraille_1993.dis"
+  ],
+  "/tables/da-dk-octobraille.dis": ["/tables/da-dk-octobraille.dis"],
+  "/tables/da-dk-octobraille_1993.dis": ["/tables/da-dk-octobraille_1993.dis"],
+  "/tables/de-accents-detailed.cti": ["/tables/de-accents-detailed.cti"],
+  "/tables/de-accents.cti": ["/tables/de-accents.cti"],
+  "/tables/de-chardefs6.cti": [
+    "/tables/de-chardefs6.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/de-chardefs8.cti": [
+    "/tables/de-chardefs8.cti",
+    "/tables/digits6DotsPlusDot6.uti"
+  ],
+  "/tables/de-chess.ctb": ["/tables/de-chess.ctb"],
+  "/tables/de-comp6.utb": [
+    "/tables/de-comp6.utb",
+    "/tables/digits6DotsPlusDot6.uti"
+  ],
+  "/tables/de-de-comp8.ctb": [
+    "/tables/de-de-comp8.ctb",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/de-de.dis": ["/tables/de-de.dis"],
+  "/tables/de-eurobrl6.dis": ["/tables/de-eurobrl6.dis"],
+  "/tables/de-eurobrl6u.dis": ["/tables/de-eurobrl6u.dis"],
+  "/tables/de-g0-core.uti": [
+    "/tables/de-g0-core.uti",
+    "/tables/countries.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/de-g0-detailed.utb": [
+    "/tables/de-g0-detailed.utb",
+    "/tables/de-g0-core.uti",
+    "/tables/countries.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/de-accents-detailed.cti",
+    "/tables/de-chardefs6.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/spaces.uti",
+    "/tables/de-eurobrl6.dis"
+  ],
+  "/tables/de-g0.utb": [
+    "/tables/de-g0.utb",
+    "/tables/latinLowercase.uti",
+    "/tables/de-g0-core.uti",
+    "/tables/countries.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/de-accents.cti",
+    "/tables/de-chardefs6.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/spaces.uti",
+    "/tables/de-eurobrl6.dis"
+  ],
+  "/tables/devanagari.cti": [
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/digits6Dots.uti": ["/tables/digits6Dots.uti"],
+  "/tables/digits6DotsPlusDot6.uti": ["/tables/digits6DotsPlusDot6.uti"],
+  "/tables/digits8Dots.uti": ["/tables/digits8Dots.uti"],
+  "/tables/dra.ctb": [
+    "/tables/dra.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/tamil.cti"
+  ],
+  "/tables/el.ctb": [
+    "/tables/el.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/en-GB-g2.ctb": [
+    "/tables/en-GB-g2.ctb",
+    "/tables/en-gb-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/ukchardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/en-chardefs.cti": [
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/en-chess.ctb": ["/tables/en-chess.ctb"],
+  "/tables/en-gb-comp8.ctb": [
+    "/tables/en-gb-comp8.ctb",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/latinLetterDef8Dots.uti"
+  ],
+  "/tables/en-gb-g1.utb": [
+    "/tables/en-gb-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/ukchardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/en-in-g1.ctb": [
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/en-nabcc.utb": ["/tables/en-nabcc.utb"],
+  "/tables/en-ueb-chardefs.uti": [
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/en-ueb-g1.ctb": [
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/en-ueb-g2.ctb": [
+    "/tables/en-ueb-g2.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/en-ueb-math.ctb": ["/tables/en-ueb-math.ctb"],
+  "/tables/en-us-brf.dis": ["/tables/en-us-brf.dis"],
+  "/tables/en-us-comp6.ctb": [
+    "/tables/en-us-comp6.ctb",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/en-us-comp8-ext.utb": [
+    "/tables/en-us-comp8-ext.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/latinLetterDef8Dots.uti"
+  ],
+  "/tables/en-us-comp8.ctb": [
+    "/tables/en-us-comp8.ctb",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/loweredDigits6Dots.uti"
+  ],
+  "/tables/en-us-compbrl.uti": ["/tables/en-us-compbrl.uti"],
+  "/tables/en-us-emphasis.uti": ["/tables/en-us-emphasis.uti"],
+  "/tables/en-us-g1.ctb": [
+    "/tables/en-us-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-us-compbrl.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/en-us-g2.ctb": [
+    "/tables/en-us-g2.ctb",
+    "/tables/en-us-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-us-compbrl.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/en-us-interline.ctb": [
+    "/tables/en-us-interline.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/en-us-mathtext.ctb": [
+    "/tables/en-us-mathtext.ctb",
+    "/tables/corrections.cti",
+    "/tables/nemethdefs.cti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/en_CA.ctb": ["/tables/en_CA.ctb", "/tables/loweredDigits6Dots.uti"],
+  "/tables/eo-g1-x-system.ctb": [
+    "/tables/eo-g1-x-system.ctb",
+    "/tables/eo-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/eo-g1.ctb": [
+    "/tables/eo-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/es-chardefs.cti": [
+    "/tables/es-chardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/es-g1.ctb": [
+    "/tables/es-g1.ctb",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/es-chardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/es-g2.ctb": [
+    "/tables/es-g2.ctb",
+    "/tables/es-g1.ctb",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/es-chardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/es-new.dis": ["/tables/es-new.dis"],
+  "/tables/es-old.dis": ["/tables/es-old.dis"],
+  "/tables/et.ctb": ["/tables/et.ctb", "/tables/digits8Dots.uti"],
+  "/tables/ethio-g1.ctb": [
+    "/tables/ethio-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/eurodefs.cti": [
+    "/tables/eurodefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti"
+  ],
+  "/tables/fa-ir-comp8.ctb": ["/tables/fa-ir-comp8.ctb"],
+  "/tables/fa-ir-g1.utb": [
+    "/tables/fa-ir-g1.utb",
+    "/tables/digits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/fi-fi-8dot.ctb": [
+    "/tables/fi-fi-8dot.ctb",
+    "/tables/digits8Dots.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/fi.utb": [
+    "/tables/fi.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/fil-g2.ctb": [
+    "/tables/fil-g2.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/fr-bfu-comp6.utb": [
+    "/tables/fr-bfu-comp6.utb",
+    "/tables/fr-bfu-comp68.cti",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6DotsPlusDot6.uti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/fr-bfu-comp68.cti": [
+    "/tables/fr-bfu-comp68.cti",
+    "/tables/IPA-unicode-range.uti"
+  ],
+  "/tables/fr-bfu-comp8.utb": [
+    "/tables/fr-bfu-comp8.utb",
+    "/tables/fr-bfu-comp68.cti",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef8Dots.uti"
+  ],
+  "/tables/fr-bfu-g2.ctb": [
+    "/tables/fr-bfu-g2.ctb",
+    "/tables/fr-bfu-comp6.utb",
+    "/tables/fr-bfu-comp68.cti",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6DotsPlusDot6.uti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ga-g1.utb": [
+    "/tables/ga-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ga-g2.ctb": [
+    "/tables/ga-g2.ctb",
+    "/tables/ga-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/gd.ctb": ["/tables/gd.ctb", "/tables/digits8Dots.uti"],
+  "/tables/gon.ctb": [
+    "/tables/gon.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/telugu.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/devanagari.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/gr-pl-comp8.uti": ["/tables/gr-pl-comp8.uti"],
+  "/tables/grc-international-common.uti": [
+    "/tables/grc-international-common.uti"
+  ],
+  "/tables/grc-international-composed.uti": [
+    "/tables/grc-international-composed.uti",
+    "/tables/grc-international-common.uti"
+  ],
+  "/tables/grc-international-decomposed.uti": [
+    "/tables/grc-international-decomposed.uti",
+    "/tables/grc-international-common.uti"
+  ],
+  "/tables/grc-international-en-composed.utb": [
+    "/tables/grc-international-en-composed.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/grc-international-composed.uti",
+    "/tables/grc-international-common.uti"
+  ],
+  "/tables/grc-international-en.utb": [
+    "/tables/grc-international-en.utb",
+    "/tables/grc-international-decomposed.uti",
+    "/tables/grc-international-common.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/gu-in-g1.utb": [
+    "/tables/gu-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/gujarati.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/gujarati.cti": [
+    "/tables/gujarati.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/gurumuki.cti": [
+    "/tables/gurumuki.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/haw-us-g1.ctb": [
+    "/tables/haw-us-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/hbo-cantillated-rules.uti": [
+    "/tables/hbo-cantillated-rules.uti",
+    "/tables/hbo-common-rules.uti",
+    "/tables/spaces.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti"
+  ],
+  "/tables/hbo-cantillated.utb": [
+    "/tables/hbo-cantillated.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/hbo-cantillated-rules.uti",
+    "/tables/hbo-common-rules.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/hbo-common-rules.uti": [
+    "/tables/hbo-common-rules.uti",
+    "/tables/spaces.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti"
+  ],
+  "/tables/hbo-ihbc-rules.uti": [
+    "/tables/hbo-ihbc-rules.uti",
+    "/tables/hbo-common-rules.uti",
+    "/tables/spaces.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti"
+  ],
+  "/tables/hbo-slim-rules.uti": [
+    "/tables/hbo-slim-rules.uti",
+    "/tables/hbo-common-rules.uti",
+    "/tables/spaces.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti"
+  ],
+  "/tables/hbo-slim.utb": [
+    "/tables/hbo-slim.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/hbo-slim-rules.uti",
+    "/tables/hbo-common-rules.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/hbo.utb": [
+    "/tables/hbo.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/hbo-ihbc-rules.uti",
+    "/tables/hbo-common-rules.uti",
+    "/tables/he-common-vowels-ihbc.uti",
+    "/tables/he-common-consonants.uti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/he-IL-comp8.utb": [
+    "/tables/he-IL-comp8.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/he-IL.utb": [
+    "/tables/he-IL.utb",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/he-common-consonants.uti": ["/tables/he-common-consonants.uti"],
+  "/tables/he-common-vowels-ihbc.uti": ["/tables/he-common-vowels-ihbc.uti"],
+  "/tables/hi-in-g1.utb": [
+    "/tables/hi-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/hr-chardefs.cti": [
+    "/tables/hr-chardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/hr-digits.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/hr-comp8.utb": ["/tables/hr-comp8.utb"],
+  "/tables/hr-digits.uti": ["/tables/hr-digits.uti"],
+  "/tables/hr-g1.ctb": [
+    "/tables/hr-g1.ctb",
+    "/tables/hr-translation.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/hr-chardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/hr-digits.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/hr-translation.cti": [
+    "/tables/hr-translation.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/hu-backtranslate-correction.dis": [
+    "/tables/hu-backtranslate-correction.dis"
+  ],
+  "/tables/hu-backtranslate-word-corrections.cti": [
+    "/tables/hu-backtranslate-word-corrections.cti"
+  ],
+  "/tables/hu-chardefs.cti": [
+    "/tables/hu-chardefs.cti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/hu-exceptionwords.cti": ["/tables/hu-exceptionwords.cti"],
+  "/tables/hu-hu-comp8.ctb": [
+    "/tables/hu-hu-comp8.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/boxes.ctb"
+  ],
+  "/tables/hu-hu-g1.ctb": [
+    "/tables/hu-hu-g1.ctb",
+    "/tables/hu-hu-g1_braille_input.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/hu-backtranslate-word-corrections.cti",
+    "/tables/hu-exceptionwords.cti",
+    "/tables/hu-chardefs.cti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/hu-backtranslate-correction.dis"
+  ],
+  "/tables/hu-hu-g1_braille_input.cti": ["/tables/hu-hu-g1_braille_input.cti"],
+  "/tables/hu-hu-g2.ctb": [
+    "/tables/hu-hu-g2.ctb",
+    "/tables/hu-hu-g1_braille_input.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/hu-backtranslate-word-corrections.cti",
+    "/tables/hu-exceptionwords.cti",
+    "/tables/hu-hu-g2_exceptions.cti",
+    "/tables/hu-chardefs.cti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/hu-backtranslate-correction.dis"
+  ],
+  "/tables/hu-hu-g2_exceptions.cti": ["/tables/hu-hu-g2_exceptions.cti"],
+  "/tables/hy.ctb": ["/tables/hy.ctb", "/tables/digits8Dots.uti"],
+  "/tables/is.ctb": ["/tables/is.ctb", "/tables/digits8Dots.uti"],
+  "/tables/it-it-comp6.utb": [
+    "/tables/it-it-comp6.utb",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/it-it-comp8.utb": [
+    "/tables/it-it-comp8.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/gr-pl-comp8.uti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti"
+  ],
+  "/tables/iu-ca-g1.ctb": [
+    "/tables/iu-ca-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ja-kantenji-ucs2.utb": ["/tables/ja-kantenji-ucs2.utb"],
+  "/tables/ja-kantenji.utb": [
+    "/tables/ja-kantenji.utb",
+    "/tables/ja-kantenji-ucs2.utb"
+  ],
+  "/tables/ja-rokutenkanji.utb": ["/tables/ja-rokutenkanji.utb"],
+  "/tables/ka-in-g1.utb": [
+    "/tables/ka-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/kannada.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/ka.utb": [
+    "/tables/ka.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti"
+  ],
+  "/tables/kannada.cti": [
+    "/tables/kannada.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/kh-in-g1.utb": [
+    "/tables/kh-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/kk.utb": [
+    "/tables/kk.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/km-g1.utb": ["/tables/km-g1.utb", "/tables/braille-patterns.cti"],
+  "/tables/kmr.tbl": [
+    "/tables/kmr.tbl",
+    "/tables/digits6Dots.uti",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ko-2006-g1.ctb": [
+    "/tables/ko-2006-g1.ctb",
+    "/tables/ko-g1-rules.cti",
+    "/tables/ko-2006.cti",
+    "/tables/ko-chars.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ko-2006-g2.ctb": [
+    "/tables/ko-2006-g2.ctb",
+    "/tables/ko-g2-rules.cti",
+    "/tables/en-us-g2.ctb",
+    "/tables/en-us-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-us-compbrl.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ko-2006.cti",
+    "/tables/ko-chars.cti"
+  ],
+  "/tables/ko-2006.cti": [
+    "/tables/ko-2006.cti",
+    "/tables/ko-chars.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ko-chars.cti": ["/tables/ko-chars.cti"],
+  "/tables/ko-g1-rules.cti": ["/tables/ko-g1-rules.cti"],
+  "/tables/ko-g1.ctb": [
+    "/tables/ko-g1.ctb",
+    "/tables/ko-g1-rules.cti",
+    "/tables/ko.cti",
+    "/tables/ko-chars.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ko-g2-rules.cti": [
+    "/tables/ko-g2-rules.cti",
+    "/tables/en-us-g2.ctb",
+    "/tables/en-us-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-us-compbrl.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ko-g2.ctb": [
+    "/tables/ko-g2.ctb",
+    "/tables/ko-g2-rules.cti",
+    "/tables/en-us-g2.ctb",
+    "/tables/en-us-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-us-compbrl.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ko.cti",
+    "/tables/ko-chars.cti"
+  ],
+  "/tables/ko.cti": [
+    "/tables/ko.cti",
+    "/tables/ko-chars.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/kok.ctb": [
+    "/tables/kok.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/kru.ctb": [
+    "/tables/kru.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ks-in-g1.utb": [
+    "/tables/ks-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/latinLetterDef6Dots.uti": ["/tables/latinLetterDef6Dots.uti"],
+  "/tables/latinLetterDef8Dots.uti": ["/tables/latinLetterDef8Dots.uti"],
+  "/tables/latinLowercase.uti": ["/tables/latinLowercase.uti"],
+  "/tables/latinUppercaseComp6.uti": ["/tables/latinUppercaseComp6.uti"],
+  "/tables/lg-ug-g1.utb": [
+    "/tables/lg-ug-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/litdigits6Dots.uti": ["/tables/litdigits6Dots.uti"],
+  "/tables/litdigits6DotsPlusDot6.uti": ["/tables/litdigits6DotsPlusDot6.uti"],
+  "/tables/lo-g1.utb": [
+    "/tables/lo-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/loweredDigits6Dots.uti": ["/tables/loweredDigits6Dots.uti"],
+  "/tables/loweredDigits8Dots.uti": ["/tables/loweredDigits8Dots.uti"],
+  "/tables/lt-6dot.utb": [
+    "/tables/lt-6dot.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/lt-8dot.utb": [
+    "/tables/lt-8dot.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits8Dots.uti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/lt.ctb": [
+    "/tables/lt.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/malayalam.cti": [
+    "/tables/malayalam.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/mao-nz-g1.ctb": [
+    "/tables/mao-nz-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/marburg_single_cell_defs.cti": [
+    "/tables/marburg_single_cell_defs.cti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti"
+  ],
+  "/tables/marburg_unicode_defs.cti": ["/tables/marburg_unicode_defs.cti"],
+  "/tables/mk-g1.utb": [
+    "/tables/mk-g1.utb",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ml-in-g1.utb": [
+    "/tables/ml-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/malayalam.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/mn-MN-common.cti": [
+    "/tables/mn-MN-common.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/mn-MN-g1.utb": [
+    "/tables/mn-MN-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/mn-MN-common.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/mn-MN-g2.ctb": [
+    "/tables/mn-MN-g2.ctb",
+    "/tables/en-ueb-g2.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/mn-MN-common.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/mn-in-g1.utb": [
+    "/tables/mn-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/bengali.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/mr-in-g1.utb": [
+    "/tables/mr-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/ms-my-g2.ctb": [
+    "/tables/ms-my-g2.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/mt.ctb": ["/tables/mt.ctb", "/tables/digits8Dots.uti"],
+  "/tables/mun.ctb": [
+    "/tables/mun.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/bengali.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/mwr.ctb": [
+    "/tables/mwr.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/my-g1.utb": ["/tables/my-g1.utb", "/tables/braille-patterns.cti"],
+  "/tables/my-g2.ctb": [
+    "/tables/my-g2.ctb",
+    "/tables/my-g1.utb",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/ne.ctb": [
+    "/tables/ne.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/nemethdefs.cti": ["/tables/nemethdefs.cti"],
+  "/tables/nl-BE.dis": ["/tables/nl-BE.dis"],
+  "/tables/nl-NL-g0.utb": [
+    "/tables/nl-NL-g0.utb",
+    "/tables/quotation-marks.uti",
+    "/tables/nl-chardefs.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/nl-print.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/nl-NL-g0.utb.in": [
+    "/tables/nl-NL-g0.utb.in",
+    "/tables/quotation-marks.uti",
+    "/tables/nl-chardefs.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/nl-print.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/nl-chardefs.uti": [
+    "/tables/nl-chardefs.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/nl-chardefs.uti.in": [
+    "/tables/nl-chardefs.uti.in",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/nl-comp8.utb": [
+    "/tables/nl-comp8.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/nl-print.dis": ["/tables/nl-print.dis", "/tables/unicode.dis"],
+  "/tables/nl-unicode.dis": ["/tables/nl-unicode.dis"],
+  "/tables/no-no-8dot-fallback-6dot-g0.utb": [
+    "/tables/no-no-8dot-fallback-6dot-g0.utb",
+    "/tables/no-no-chardefs6.uti",
+    "/tables/no-no-latinLetterDef6Dots_diacritics.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/no-no-8dot.utb",
+    "/tables/unicode-braille.utb",
+    "/tables/no-no-comp8.ctb"
+  ],
+  "/tables/no-no-8dot.utb": [
+    "/tables/no-no-8dot.utb",
+    "/tables/unicode-braille.utb",
+    "/tables/no-no-comp8.ctb"
+  ],
+  "/tables/no-no-braillo-047-01.dis": ["/tables/no-no-braillo-047-01.dis"],
+  "/tables/no-no-chardefs6.uti": [
+    "/tables/no-no-chardefs6.uti",
+    "/tables/no-no-latinLetterDef6Dots_diacritics.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/no-no-comp8.ctb": ["/tables/no-no-comp8.ctb"],
+  "/tables/no-no-cyrillic6dot.uti": ["/tables/no-no-cyrillic6dot.uti"],
+  "/tables/no-no-g0.utb": [
+    "/tables/no-no-g0.utb",
+    "/tables/no-no-cyrillic6dot.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/no-no-chardefs6.uti",
+    "/tables/no-no-latinLetterDef6Dots_diacritics.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/no-no.dis"
+  ],
+  "/tables/no-no-g1.ctb": [
+    "/tables/no-no-g1.ctb",
+    "/tables/no-no-g0.utb",
+    "/tables/no-no-cyrillic6dot.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/no-no-chardefs6.uti",
+    "/tables/no-no-latinLetterDef6Dots_diacritics.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/no-no.dis"
+  ],
+  "/tables/no-no-g2.ctb": [
+    "/tables/no-no-g2.ctb",
+    "/tables/no-no-g1.ctb",
+    "/tables/no-no-g0.utb",
+    "/tables/no-no-cyrillic6dot.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/no-no-chardefs6.uti",
+    "/tables/no-no-latinLetterDef6Dots_diacritics.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/no-no.dis"
+  ],
+  "/tables/no-no-g3.ctb": [
+    "/tables/no-no-g3.ctb",
+    "/tables/no-no-g2.ctb",
+    "/tables/no-no-g1.ctb",
+    "/tables/no-no-g0.utb",
+    "/tables/no-no-cyrillic6dot.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/no-no-chardefs6.uti",
+    "/tables/no-no-latinLetterDef6Dots_diacritics.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/digits8Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/no-no.dis"
+  ],
+  "/tables/no-no-generic.ctb": ["/tables/no-no-generic.ctb"],
+  "/tables/no-no-generic.dis": ["/tables/no-no-generic.dis"],
+  "/tables/no-no-latinLetterDef6Dots_diacritics.uti": [
+    "/tables/no-no-latinLetterDef6Dots_diacritics.uti"
+  ],
+  "/tables/no-no.dis": ["/tables/no-no.dis"],
+  "/tables/np-in-g1.utb": [
+    "/tables/np-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/nso-za-g1.utb": [
+    "/tables/nso-za-g1.utb",
+    "/tables/sot-za-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/nso-za-g2.ctb": [
+    "/tables/nso-za-g2.ctb",
+    "/tables/sot-za-g2.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/sot-za-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ny-mw.utb": [
+    "/tables/ny-mw.utb",
+    "/tables/sw-ke-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/or-in-g1.utb": [
+    "/tables/or-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/oriya.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/oriya.cti": ["/tables/oriya.cti", "/tables/braille-patterns.cti"],
+  "/tables/pi.ctb": [
+    "/tables/pi.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/pl-pl-comp8.ctb": [
+    "/tables/pl-pl-comp8.ctb",
+    "/tables/digits8Dots.uti",
+    "/tables/latinLetterDef8Dots.uti"
+  ],
+  "/tables/printables.cti": [
+    "/tables/printables.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti"
+  ],
+  "/tables/pt-comp6.utb": [
+    "/tables/pt-comp6.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/spaces.uti"
+  ],
+  "/tables/pt-pt-comp8.ctb": [
+    "/tables/pt-pt-comp8.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits8Dots.uti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/pt-pt-g1.utb": [
+    "/tables/pt-pt-g1.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/spaces.uti"
+  ],
+  "/tables/pu-in-g1.utb": [
+    "/tables/pu-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/gurumuki.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/quotation-marks.uti": ["/tables/quotation-marks.uti"],
+  "/tables/ro-g0.utb": [
+    "/tables/ro-g0.utb",
+    "/tables/fr-bfu-comp6.utb",
+    "/tables/fr-bfu-comp68.cti",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6DotsPlusDot6.uti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti"
+  ],
+  "/tables/ro.ctb": ["/tables/ro.ctb", "/tables/digits8Dots.uti"],
+  "/tables/ru-brf.dis": ["/tables/ru-brf.dis", "/tables/en-us-brf.dis"],
+  "/tables/ru-comp6.utb": [
+    "/tables/ru-comp6.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-letters.dis"
+  ],
+  "/tables/ru-comp8.utb": [
+    "/tables/ru-comp8.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/loweredDigits6Dots.uti"
+  ],
+  "/tables/ru-letters.dis": ["/tables/ru-letters.dis"],
+  "/tables/ru-litbrl-detailed.utb": [
+    "/tables/ru-litbrl-detailed.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/ru-litbrl.ctb": [
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/ru-ru-g1.ctb": [
+    "/tables/ru-ru-g1.ctb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/ru-unicode.dis": ["/tables/ru-unicode.dis", "/tables/unicode.dis"],
+  "/tables/rw-rw-g1.utb": [
+    "/tables/rw-rw-g1.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/sa-in-g1.utb": [
+    "/tables/sa-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/sah.utb": [
+    "/tables/sah.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/se-se.ctb": ["/tables/se-se.ctb", "/tables/digits8Dots.uti"],
+  "/tables/se-se.dis": ["/tables/se-se.dis"],
+  "/tables/si-in-g1.utb": [
+    "/tables/si-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/devanagari.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/sin.cti": ["/tables/sin.cti", "/tables/braille-patterns.cti"],
+  "/tables/sin.utb": [
+    "/tables/sin.utb",
+    "/tables/text_nabcc.dis",
+    "/tables/tamil.cti",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/sin.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/sk-g1.ctb": [
+    "/tables/sk-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/sk-sk-g1.utb": [
+    "/tables/sk-sk-g1.utb",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sk-sk.utb": [
+    "/tables/sk-sk.utb",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/eurodefs.cti",
+    "/tables/digits6DotsPlusDot6.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sl-si-comp8.ctb": [
+    "/tables/sl-si-comp8.ctb",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits8Dots.uti"
+  ],
+  "/tables/sl-si-g1.utb": [
+    "/tables/sl-si-g1.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/countries.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sot-za-g1.ctb": [
+    "/tables/sot-za-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sot-za-g2.ctb": [
+    "/tables/sot-za-g2.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/sot-za-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/spaces.uti": ["/tables/spaces.uti"],
+  "/tables/sv-1989.ctb": [
+    "/tables/sv-1989.ctb",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits8Dots.uti"
+  ],
+  "/tables/sv-1996.ctb": [
+    "/tables/sv-1996.ctb",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits8Dots.uti"
+  ],
+  "/tables/sv-g0.utb": [
+    "/tables/sv-g0.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/sv-g1.ctb": [
+    "/tables/sv-g1.ctb",
+    "/tables/sv-g0.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/sv-g2.ctb": [
+    "/tables/sv-g2.ctb",
+    "/tables/sv-g1.ctb",
+    "/tables/sv-g0.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/sw-ke-g1-2.ctb": [
+    "/tables/sw-ke-g1-2.ctb",
+    "/tables/sw-ke-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sw-ke-g1-3.ctb": [
+    "/tables/sw-ke-g1-3.ctb",
+    "/tables/sw-ke-g1-2.ctb",
+    "/tables/sw-ke-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sw-ke-g1-4.ctb": [
+    "/tables/sw-ke-g1-4.ctb",
+    "/tables/sw-ke-g1-3.ctb",
+    "/tables/sw-ke-g1-2.ctb",
+    "/tables/sw-ke-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sw-ke-g1-5.ctb": [
+    "/tables/sw-ke-g1-5.ctb",
+    "/tables/sw-ke-g1-4.ctb",
+    "/tables/sw-ke-g1-3.ctb",
+    "/tables/sw-ke-g1-2.ctb",
+    "/tables/sw-ke-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sw-ke-g1.utb": [
+    "/tables/sw-ke-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/sw-ke-g2.ctb": [
+    "/tables/sw-ke-g2.ctb",
+    "/tables/sw-ke-g1-5.ctb",
+    "/tables/sw-ke-g1-4.ctb",
+    "/tables/sw-ke-g1-3.ctb",
+    "/tables/sw-ke-g1-2.ctb",
+    "/tables/sw-ke-g1.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/digits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/syc.utb": [
+    "/tables/syc.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/ta-ta-g1.ctb": [
+    "/tables/ta-ta-g1.ctb",
+    "/tables/en-us-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-us-compbrl.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ta.ctb": [
+    "/tables/ta.ctb",
+    "/tables/text_nabcc.dis",
+    "/tables/tamil.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/tamil.cti": ["/tables/tamil.cti"],
+  "/tables/te-in-g1.utb": [
+    "/tables/te-in-g1.utb",
+    "/tables/en-in-g1.ctb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/en-us-emphasis.uti",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/telugu.cti",
+    "/tables/braille-patterns.cti"
+  ],
+  "/tables/telugu.cti": ["/tables/telugu.cti", "/tables/braille-patterns.cti"],
+  "/tables/text_nabcc.dis": ["/tables/text_nabcc.dis"],
+  "/tables/th-comp8-backward.utb": [
+    "/tables/th-comp8-backward.utb",
+    "/tables/spaces.uti"
+  ],
+  "/tables/th-g0.utb": [
+    "/tables/th-g0.utb",
+    "/tables/th-comp8-backward.utb",
+    "/tables/spaces.uti",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/th-g1.utb": [
+    "/tables/th-g1.utb",
+    "/tables/th-g1.uti",
+    "/tables/spaces.uti",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/th-g1.uti": ["/tables/th-g1.uti", "/tables/spaces.uti"],
+  "/tables/th-g2.ctb": [
+    "/tables/th-g2.ctb",
+    "/tables/th-g1.uti",
+    "/tables/spaces.uti",
+    "/tables/en-ueb-g2.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/tr-g1.ctb": [
+    "/tables/tr-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/tr-g2.ctb": [
+    "/tables/tr-g2.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/tr.ctb": ["/tables/tr.ctb", "/tables/digits8Dots.uti"],
+  "/tables/tsn-za-g1.ctb": [
+    "/tables/tsn-za-g1.ctb",
+    "/tables/sot-za-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/tsn-za-g2.ctb": [
+    "/tables/tsn-za-g2.ctb",
+    "/tables/sot-za-g2.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/sot-za-g1.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/tt.utb": [
+    "/tables/tt.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/uga.utb": [
+    "/tables/uga.utb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/uk-comp.utb": [
+    "/tables/uk-comp.utb",
+    "/tables/ru-comp8.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/loweredDigits6Dots.uti"
+  ],
+  "/tables/uk-detailed.utb": [
+    "/tables/uk-detailed.utb",
+    "/tables/ru-litbrl-detailed.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis",
+    "/tables/uk.utb"
+  ],
+  "/tables/uk.utb": [
+    "/tables/uk.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/ukchardefs.cti": [
+    "/tables/ukchardefs.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ukmaths_single_cell_defs.cti": [
+    "/tables/ukmaths_single_cell_defs.cti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/digits6DotsPlusDot6.uti"
+  ],
+  "/tables/ukmaths_unicode_defs.cti": ["/tables/ukmaths_unicode_defs.cti"],
+  "/tables/uni-text.dis": ["/tables/uni-text.dis"],
+  "/tables/unicode-braille.utb": ["/tables/unicode-braille.utb"],
+  "/tables/unicode-without-blank.dis": [
+    "/tables/unicode-without-blank.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/unicode.dis": ["/tables/unicode.dis"],
+  "/tables/ur-pk-g1.utb": [
+    "/tables/ur-pk-g1.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/ur-pk-g2.ctb": [
+    "/tables/ur-pk-g2.ctb",
+    "/tables/ur-pk-g1.utb",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/us-table.dis": ["/tables/us-table.dis"],
+  "/tables/uz-g1.utb": [
+    "/tables/uz-g1.utb",
+    "/tables/ru-litbrl.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/ru-unicode.dis",
+    "/tables/unicode.dis"
+  ],
+  "/tables/ve-za-g1.utb": [
+    "/tables/ve-za-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/ve-za-g2.ctb": [
+    "/tables/ve-za-g2.ctb",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/ve-za-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/vi-cb8.utb": [
+    "/tables/vi-cb8.utb",
+    "/tables/en-us-comp8-ext.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/vi-lettersdef.uti"
+  ],
+  "/tables/vi-charsdef.uti": [
+    "/tables/vi-charsdef.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/vi-puncsdef.uti",
+    "/tables/vi-lettersdef.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/unicode.dis"
+  ],
+  "/tables/vi-lettersdef.uti": ["/tables/vi-lettersdef.uti"],
+  "/tables/vi-puncsdef.uti": ["/tables/vi-puncsdef.uti"],
+  "/tables/vi-saigon-g1.ctb": [
+    "/tables/vi-saigon-g1.ctb",
+    "/tables/vi-charsdef.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/vi-puncsdef.uti",
+    "/tables/vi-lettersdef.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/unicode.dis"
+  ],
+  "/tables/vi-vn-g0.utb": [
+    "/tables/vi-vn-g0.utb",
+    "/tables/vi-charsdef.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/vi-puncsdef.uti",
+    "/tables/vi-lettersdef.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/unicode.dis"
+  ],
+  "/tables/vi-vn-g1.ctb": [
+    "/tables/vi-vn-g1.ctb",
+    "/tables/vi-charsdef.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/vi-puncsdef.uti",
+    "/tables/vi-lettersdef.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/unicode.dis"
+  ],
+  "/tables/vi-vn-g2.ctb": [
+    "/tables/vi-vn-g2.ctb",
+    "/tables/vi-charsdef.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/vi-puncsdef.uti",
+    "/tables/vi-lettersdef.uti",
+    "/tables/litdigits6Dots.uti",
+    "/tables/digits6Dots.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/unicode.dis"
+  ],
+  "/tables/wiskunde-chardefs.cti": [
+    "/tables/wiskunde-chardefs.cti",
+    "/tables/digits6Dots.uti"
+  ],
+  "/tables/wordcx.dis": ["/tables/wordcx.dis"],
+  "/tables/xh-za-g1.utb": [
+    "/tables/xh-za-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/xh-za-g2.ctb": [
+    "/tables/xh-za-g2.ctb",
+    "/tables/xh-za-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/yi.utb": [
+    "/tables/yi.utb",
+    "/tables/en-chardefs.cti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/loweredDigits6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/he-IL.utb",
+    "/tables/braille-patterns.cti",
+    "/tables/litdigits6Dots.uti"
+  ],
+  "/tables/zh-chn.ctb": [
+    "/tables/zh-chn.ctb",
+    "/tables/ukmaths_unicode_defs.cti",
+    "/tables/braille-patterns.cti",
+    "/tables/spaces.uti"
+  ],
+  "/tables/zh-hk.ctb": [
+    "/tables/zh-hk.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-us-comp8.ctb",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/loweredDigits6Dots.uti"
+  ],
+  "/tables/zh-tw.ctb": [
+    "/tables/zh-tw.ctb",
+    "/tables/spaces.uti",
+    "/tables/braille-patterns.cti",
+    "/tables/IPA-unicode-range.uti",
+    "/tables/en-us-comp8.ctb",
+    "/tables/latinLetterDef8Dots.uti",
+    "/tables/loweredDigits6Dots.uti"
+  ],
+  "/tables/zhcn-cbs.ctb": [
+    "/tables/zhcn-cbs.ctb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/zhcn-g1.ctb": [
+    "/tables/zhcn-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/zhcn-g2.ctb": [
+    "/tables/zhcn-g2.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/zu-za-g1.utb": [
+    "/tables/zu-za-g1.utb",
+    "/tables/xh-za-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ],
+  "/tables/zu-za-g2.ctb": [
+    "/tables/zu-za-g2.ctb",
+    "/tables/xh-za-g2.ctb",
+    "/tables/xh-za-g1.utb",
+    "/tables/en-ueb-g1.ctb",
+    "/tables/braille-patterns.cti",
+    "/tables/en-ueb-math.ctb",
+    "/tables/en-ueb-chardefs.uti",
+    "/tables/latinUppercaseComp6.uti",
+    "/tables/latinLetterDef6Dots.uti",
+    "/tables/spaces.uti",
+    "/tables/text_nabcc.dis"
+  ]
+}

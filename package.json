@@ -1,18 +1,27 @@
 {
-  "name": "liblouis-build",
-  "description": "pre-compiled builds of liblouis for js",
-  "author": "Reiner Dolp",
+  "name": "liblouis-js-build",
+  "description": "Alternative liblouis js build (unstable)",
+  "author": "David Wilkening",
   "keywords": [
     "braille",
-    "transcription",
-    "emscripten",
     "liblouis",
     "liblouis-js"
   ],
-  "version": "0.0.0-52f776",
+  "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/liblouis/js-build.git"
+    "url": "git://github.com/course-correction/liblouis-js-build.git"
   },
-  "main": "./build-no-tables-utf32.js"
+  "license": "LGPL-2.1-only",
+  "main": "./liblouis.js",
+  "type": "module",
+  "scripts": {
+    "build": "./scripts/build_liblouis.sh"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "globals": "^17.3.0",
+    "prettier": "3.8.1"
+  }
 }

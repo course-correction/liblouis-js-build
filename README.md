@@ -1,10 +1,10 @@
-[![latest build in the npm registry](https://img.shields.io/npm/v/liblouis-build.svg?colorB=44cc11&label=Latest%20Build%20@npm)](https://www.npmjs.com/package/liblouis-build)
-[![latest build in the bower registry](https://img.shields.io/bower/v/liblouis-build.svg?colorB=44cc11&label=Latest%20Build%20@bower)](https://bower.io/search/?q=liblouis-build)
-[![Build Status](https://travis-ci.org/liblouis/js-build.svg?branch=master)](https://travis-ci.org/liblouis/js-build)
+# Libluois JS build
 
-These are pre-built binaries of [liblouis](https://github.com/liblouis/liblouis) for Javascript environments. Binaries are created by cross-compiling the [C implementation](https://github.com/liblouis/liblouis) using [emscripten](http://emscripten.org/).
-**This is not the main repository for the Javascript implementation**, but a helper repository used by the Javascript implementation located at [*liblouis/liblouis-js*](https://github.com/liblouis/liblouis-js).
+Unofficial liblouis js build.
+Based on [liblouis v3.36.0](https://github.com/liblouis/liblouis/tree/v3.36.0).
 
-If you are new to _liblouis_ you are probably looking for the [official website](http://liblouis.org/), [the official documentation](http://liblouis.org/documentation/liblouis.html) or the [repository of the C implementation at *liblouis/liblouis*](https://github.com/liblouis/liblouis).
+Liblouis is licenced under [LGPLv2.1](https://github.com/liblouis/liblouis/blob/v3.36.0/License.md).
+This build only includes translation tables that share this license.
+For this reason German and Danish hypenation tables needed for contracted braille are not available.
 
-Report bugs in table files at [*liblouis/liblouis*](https://github.com/liblouis/liblouis/issues). Report issues with the javascript implementation at [*liblouis/liblouis-js*](https://github.com/liblouis/liblouis-js/issues).
+Please consider these bindings unstable for the time being.

@@ -1,0 +1,1847 @@
+[
+  {
+    "filename": "/tables/IPA-unicode-range.uti",
+    "start": 0,
+    "end": 13188
+  },
+  {
+    "filename": "/tables/IPA.utb",
+    "start": 13188,
+    "end": 22269
+  },
+  {
+    "filename": "/tables/Lv-Lv-g1.utb",
+    "start": 22269,
+    "end": 42687
+  },
+  {
+    "filename": "/tables/Pl-Pl-g1.utb",
+    "start": 42687,
+    "end": 53057
+  },
+  {
+    "filename": "/tables/afr-za-g1.ctb",
+    "start": 53057,
+    "end": 55715
+  },
+  {
+    "filename": "/tables/afr-za-g2.ctb",
+    "start": 55715,
+    "end": 85840
+  },
+  {
+    "filename": "/tables/akk-borger.utb",
+    "start": 85840,
+    "end": 131822
+  },
+  {
+    "filename": "/tables/akk.utb",
+    "start": 131822,
+    "end": 182263
+  },
+  {
+    "filename": "/tables/ancient-languages-borger.utb",
+    "start": 182263,
+    "end": 185758
+  },
+  {
+    "filename": "/tables/ancient-languages-us.utb",
+    "start": 185758,
+    "end": 189242
+  },
+  {
+    "filename": "/tables/ar-ar-comp8.utb",
+    "start": 189242,
+    "end": 198439
+  },
+  {
+    "filename": "/tables/ar-ar-g1-core.uti",
+    "start": 198439,
+    "end": 208931
+  },
+  {
+    "filename": "/tables/ar-ar-g1.utb",
+    "start": 208931,
+    "end": 210141
+  },
+  {
+    "filename": "/tables/ar-ar-g2.ctb",
+    "start": 210141,
+    "end": 221921
+  },
+  {
+    "filename": "/tables/ar-ar-math.uti",
+    "start": 221921,
+    "end": 242786
+  },
+  {
+    "filename": "/tables/as-in-g1.utb",
+    "start": 242786,
+    "end": 244002
+  },
+  {
+    "filename": "/tables/aw-in-g1.utb",
+    "start": 244002,
+    "end": 245218
+  },
+  {
+    "filename": "/tables/ba.utb",
+    "start": 245218,
+    "end": 247683
+  },
+  {
+    "filename": "/tables/be-in-g1.utb",
+    "start": 247683,
+    "end": 248898
+  },
+  {
+    "filename": "/tables/bel-comp.utb",
+    "start": 248898,
+    "end": 250428
+  },
+  {
+    "filename": "/tables/bel-detailed.utb",
+    "start": 250428,
+    "end": 251461
+  },
+  {
+    "filename": "/tables/bel.utb",
+    "start": 251461,
+    "end": 253300
+  },
+  {
+    "filename": "/tables/bengali.cti",
+    "start": 253300,
+    "end": 263670
+  },
+  {
+    "filename": "/tables/bg.ctb",
+    "start": 263670,
+    "end": 270490
+  },
+  {
+    "filename": "/tables/bg.dis",
+    "start": 270490,
+    "end": 272239
+  },
+  {
+    "filename": "/tables/bg.utb",
+    "start": 272239,
+    "end": 283724
+  },
+  {
+    "filename": "/tables/bh.ctb",
+    "start": 283724,
+    "end": 284650
+  },
+  {
+    "filename": "/tables/bo.ctb",
+    "start": 284650,
+    "end": 291898
+  },
+  {
+    "filename": "/tables/boxes.ctb",
+    "start": 291898,
+    "end": 302203
+  },
+  {
+    "filename": "/tables/br-in-g1.utb",
+    "start": 302203,
+    "end": 303417
+  },
+  {
+    "filename": "/tables/braille-patterns.cti",
+    "start": 303417,
+    "end": 329848
+  },
+  {
+    "filename": "/tables/ca-chardefs.cti",
+    "start": 329848,
+    "end": 345966
+  },
+  {
+    "filename": "/tables/ca-g1.ctb",
+    "start": 345966,
+    "end": 347724
+  },
+  {
+    "filename": "/tables/chr-us-g1.ctb",
+    "start": 347724,
+    "end": 353286
+  },
+  {
+    "filename": "/tables/ckb-chardefs.cti",
+    "start": 353286,
+    "end": 361849
+  },
+  {
+    "filename": "/tables/ckb-g1.ctb",
+    "start": 361849,
+    "end": 363059
+  },
+  {
+    "filename": "/tables/ckb-translation.cti",
+    "start": 363059,
+    "end": 366600
+  },
+  {
+    "filename": "/tables/compress.cti",
+    "start": 366600,
+    "end": 368019
+  },
+  {
+    "filename": "/tables/controlchars.cti",
+    "start": 368019,
+    "end": 369064
+  },
+  {
+    "filename": "/tables/cop-eg-comp8.utb",
+    "start": 369064,
+    "end": 377729
+  },
+  {
+    "filename": "/tables/cop.utb",
+    "start": 377729,
+    "end": 386705
+  },
+  {
+    "filename": "/tables/corrections.cti",
+    "start": 386705,
+    "end": 388197
+  },
+  {
+    "filename": "/tables/countries.cti",
+    "start": 388197,
+    "end": 394900
+  },
+  {
+    "filename": "/tables/critical-apparatus.uti",
+    "start": 394900,
+    "end": 397092
+  },
+  {
+    "filename": "/tables/cs-chardefs.cti",
+    "start": 397092,
+    "end": 421351
+  },
+  {
+    "filename": "/tables/cs-comp8.utb",
+    "start": 421351,
+    "end": 434854
+  },
+  {
+    "filename": "/tables/cs-g1.ctb",
+    "start": 434854,
+    "end": 436208
+  },
+  {
+    "filename": "/tables/cs-translation.cti",
+    "start": 436208,
+    "end": 438735
+  },
+  {
+    "filename": "/tables/cuneiform-transliterated-compact.utb",
+    "start": 438735,
+    "end": 451417
+  },
+  {
+    "filename": "/tables/cuneiform-transliterated.utb",
+    "start": 451417,
+    "end": 457713
+  },
+  {
+    "filename": "/tables/cy-cy-g1.utb",
+    "start": 457713,
+    "end": 471510
+  },
+  {
+    "filename": "/tables/cy-cy-g2.ctb",
+    "start": 471510,
+    "end": 475815
+  },
+  {
+    "filename": "/tables/da-dk-6miscChars.cti",
+    "start": 475815,
+    "end": 495334
+  },
+  {
+    "filename": "/tables/da-dk-6miscChars_1993.cti",
+    "start": 495334,
+    "end": 516033
+  },
+  {
+    "filename": "/tables/da-dk-8miscChars.cti",
+    "start": 516033,
+    "end": 519506
+  },
+  {
+    "filename": "/tables/da-dk-8miscChars_1993.cti",
+    "start": 519506,
+    "end": 523453
+  },
+  {
+    "filename": "/tables/da-dk-g08.ctb",
+    "start": 523453,
+    "end": 535214
+  },
+  {
+    "filename": "/tables/da-dk-g08_1993.ctb",
+    "start": 535214,
+    "end": 548832
+  },
+  {
+    "filename": "/tables/da-dk-g16-lit_1993.ctb",
+    "start": 548832,
+    "end": 558290
+  },
+  {
+    "filename": "/tables/da-dk-g16.ctb",
+    "start": 558290,
+    "end": 566072
+  },
+  {
+    "filename": "/tables/da-dk-g16_1993.ctb",
+    "start": 566072,
+    "end": 574258
+  },
+  {
+    "filename": "/tables/da-dk-g18.ctb",
+    "start": 574258,
+    "end": 598703
+  },
+  {
+    "filename": "/tables/da-dk-g18_1993.ctb",
+    "start": 598703,
+    "end": 624001
+  },
+  {
+    "filename": "/tables/da-dk-g26-lit_1993.ctb",
+    "start": 624001,
+    "end": 645620
+  },
+  {
+    "filename": "/tables/da-dk-g26.ctb",
+    "start": 645620,
+    "end": 679814
+  },
+  {
+    "filename": "/tables/da-dk-g26_1993.ctb",
+    "start": 679814,
+    "end": 708970
+  },
+  {
+    "filename": "/tables/da-dk-g26l-lit_1993.ctb",
+    "start": 708970,
+    "end": 724899
+  },
+  {
+    "filename": "/tables/da-dk-g26l_1993.ctb",
+    "start": 724899,
+    "end": 739944
+  },
+  {
+    "filename": "/tables/da-dk-g28.ctb",
+    "start": 739944,
+    "end": 814576
+  },
+  {
+    "filename": "/tables/da-dk-g28_1993.ctb",
+    "start": 814576,
+    "end": 876598
+  },
+  {
+    "filename": "/tables/da-dk-g28l_1993.ctb",
+    "start": 876598,
+    "end": 926827
+  },
+  {
+    "filename": "/tables/da-dk-octobraille.dis",
+    "start": 926827,
+    "end": 940204
+  },
+  {
+    "filename": "/tables/da-dk-octobraille_1993.dis",
+    "start": 940204,
+    "end": 953455
+  },
+  {
+    "filename": "/tables/de-accents-detailed.cti",
+    "start": 953455,
+    "end": 970877
+  },
+  {
+    "filename": "/tables/de-accents.cti",
+    "start": 970877,
+    "end": 988216
+  },
+  {
+    "filename": "/tables/de-chardefs6.cti",
+    "start": 988216,
+    "end": 1005123
+  },
+  {
+    "filename": "/tables/de-chardefs8.cti",
+    "start": 1005123,
+    "end": 1025121
+  },
+  {
+    "filename": "/tables/de-chess.ctb",
+    "start": 1025121,
+    "end": 1026610
+  },
+  {
+    "filename": "/tables/de-comp6.utb",
+    "start": 1026610,
+    "end": 1041757
+  },
+  {
+    "filename": "/tables/de-de-comp8.ctb",
+    "start": 1041757,
+    "end": 1051090
+  },
+  {
+    "filename": "/tables/de-de.dis",
+    "start": 1051090,
+    "end": 1065684
+  },
+  {
+    "filename": "/tables/de-eurobrl6.dis",
+    "start": 1065684,
+    "end": 1067948
+  },
+  {
+    "filename": "/tables/de-eurobrl6u.dis",
+    "start": 1067948,
+    "end": 1070039
+  },
+  {
+    "filename": "/tables/de-g0-core.uti",
+    "start": 1070039,
+    "end": 1096919
+  },
+  {
+    "filename": "/tables/de-g0-detailed.utb",
+    "start": 1096919,
+    "end": 1099952
+  },
+  {
+    "filename": "/tables/de-g0.utb",
+    "start": 1099952,
+    "end": 1101800
+  },
+  {
+    "filename": "/tables/de-g1-core.cti",
+    "start": 1101800,
+    "end": 1104547
+  },
+  {
+    "filename": "/tables/de-g1-detailed.ctb",
+    "start": 1104547,
+    "end": 1107391
+  },
+  {
+    "filename": "/tables/de-g1.ctb",
+    "start": 1107391,
+    "end": 1109179
+  },
+  {
+    "filename": "/tables/de-g2-core.cti",
+    "start": 1109179,
+    "end": 1143479
+  },
+  {
+    "filename": "/tables/de-g2-detailed.ctb",
+    "start": 1143479,
+    "end": 1145753
+  },
+  {
+    "filename": "/tables/de-g2.ctb",
+    "start": 1145753,
+    "end": 1147619
+  },
+  {
+    "filename": "/tables/devanagari.cti",
+    "start": 1147619,
+    "end": 1156927
+  },
+  {
+    "filename": "/tables/digits6Dots.uti",
+    "start": 1156927,
+    "end": 1157845
+  },
+  {
+    "filename": "/tables/digits6DotsPlusDot6.uti",
+    "start": 1157845,
+    "end": 1158910
+  },
+  {
+    "filename": "/tables/digits8Dots.uti",
+    "start": 1158910,
+    "end": 1159838
+  },
+  {
+    "filename": "/tables/dra.ctb",
+    "start": 1159838,
+    "end": 1160743
+  },
+  {
+    "filename": "/tables/el.ctb",
+    "start": 1160743,
+    "end": 1191495
+  },
+  {
+    "filename": "/tables/en-GB-g2.ctb",
+    "start": 1191495,
+    "end": 1211149
+  },
+  {
+    "filename": "/tables/en-chardefs.cti",
+    "start": 1211149,
+    "end": 1219778
+  },
+  {
+    "filename": "/tables/en-chess.ctb",
+    "start": 1219778,
+    "end": 1221276
+  },
+  {
+    "filename": "/tables/en-g3.ctb",
+    "start": 1221276,
+    "end": 1279480
+  },
+  {
+    "filename": "/tables/en-gb-comp8.ctb",
+    "start": 1279480,
+    "end": 1281762
+  },
+  {
+    "filename": "/tables/en-gb-g1.utb",
+    "start": 1281762,
+    "end": 1296008
+  },
+  {
+    "filename": "/tables/en-in-g1.ctb",
+    "start": 1296008,
+    "end": 1299433
+  },
+  {
+    "filename": "/tables/en-nabcc.utb",
+    "start": 1299433,
+    "end": 1306698
+  },
+  {
+    "filename": "/tables/en-ueb-chardefs.uti",
+    "start": 1306698,
+    "end": 1334536
+  },
+  {
+    "filename": "/tables/en-ueb-g1.ctb",
+    "start": 1334536,
+    "end": 1339904
+  },
+  {
+    "filename": "/tables/en-ueb-g2.ctb",
+    "start": 1339904,
+    "end": 1541076
+  },
+  {
+    "filename": "/tables/en-ueb-math.ctb",
+    "start": 1541076,
+    "end": 1543121
+  },
+  {
+    "filename": "/tables/en-us-brf.dis",
+    "start": 1543121,
+    "end": 1545559
+  },
+  {
+    "filename": "/tables/en-us-comp6.ctb",
+    "start": 1545559,
+    "end": 1550493
+  },
+  {
+    "filename": "/tables/en-us-comp8-ext.utb",
+    "start": 1550493,
+    "end": 1576615
+  },
+  {
+    "filename": "/tables/en-us-comp8.ctb",
+    "start": 1576615,
+    "end": 1578247
+  },
+  {
+    "filename": "/tables/en-us-compbrl.uti",
+    "start": 1578247,
+    "end": 1580413
+  },
+  {
+    "filename": "/tables/en-us-emphasis.uti",
+    "start": 1580413,
+    "end": 1581855
+  },
+  {
+    "filename": "/tables/en-us-g1.ctb",
+    "start": 1581855,
+    "end": 1586162
+  },
+  {
+    "filename": "/tables/en-us-g2.ctb",
+    "start": 1586162,
+    "end": 1614092
+  },
+  {
+    "filename": "/tables/en-us-interline.ctb",
+    "start": 1614092,
+    "end": 1642068
+  },
+  {
+    "filename": "/tables/en-us-mathtext.ctb",
+    "start": 1642068,
+    "end": 1662516
+  },
+  {
+    "filename": "/tables/en_CA.ctb",
+    "start": 1662516,
+    "end": 1670620
+  },
+  {
+    "filename": "/tables/eo-g1-x-system.ctb",
+    "start": 1670620,
+    "end": 1673581
+  },
+  {
+    "filename": "/tables/eo-g1.ctb",
+    "start": 1673581,
+    "end": 1679676
+  },
+  {
+    "filename": "/tables/es-chardefs.cti",
+    "start": 1679676,
+    "end": 1694248
+  },
+  {
+    "filename": "/tables/es-g1.ctb",
+    "start": 1694248,
+    "end": 1695529
+  },
+  {
+    "filename": "/tables/es-g2.ctb",
+    "start": 1695529,
+    "end": 1721205
+  },
+  {
+    "filename": "/tables/es-new.dis",
+    "start": 1721205,
+    "end": 1728816
+  },
+  {
+    "filename": "/tables/es-old.dis",
+    "start": 1728816,
+    "end": 1736421
+  },
+  {
+    "filename": "/tables/et.ctb",
+    "start": 1736421,
+    "end": 1740526
+  },
+  {
+    "filename": "/tables/ethio-g1.ctb",
+    "start": 1740526,
+    "end": 1748298
+  },
+  {
+    "filename": "/tables/eurodefs.cti",
+    "start": 1748298,
+    "end": 1751344
+  },
+  {
+    "filename": "/tables/fa-ir-comp8.ctb",
+    "start": 1751344,
+    "end": 1757016
+  },
+  {
+    "filename": "/tables/fa-ir-g1.utb",
+    "start": 1757016,
+    "end": 1763187
+  },
+  {
+    "filename": "/tables/fi-fi-8dot.ctb",
+    "start": 1763187,
+    "end": 1771745
+  },
+  {
+    "filename": "/tables/fi.utb",
+    "start": 1771745,
+    "end": 1784461
+  },
+  {
+    "filename": "/tables/fil-g2.ctb",
+    "start": 1784461,
+    "end": 1798660
+  },
+  {
+    "filename": "/tables/fr-bfu-comp6.utb",
+    "start": 1798660,
+    "end": 1817226
+  },
+  {
+    "filename": "/tables/fr-bfu-comp68.cti",
+    "start": 1817226,
+    "end": 1827911
+  },
+  {
+    "filename": "/tables/fr-bfu-comp8.utb",
+    "start": 1827911,
+    "end": 1844370
+  },
+  {
+    "filename": "/tables/fr-bfu-g2.ctb",
+    "start": 1844370,
+    "end": 1988760
+  },
+  {
+    "filename": "/tables/ga-g1.utb",
+    "start": 1988760,
+    "end": 1991645
+  },
+  {
+    "filename": "/tables/ga-g2.ctb",
+    "start": 1991645,
+    "end": 1996430
+  },
+  {
+    "filename": "/tables/gd.ctb",
+    "start": 1996430,
+    "end": 2001719
+  },
+  {
+    "filename": "/tables/gon.ctb",
+    "start": 2001719,
+    "end": 2002663
+  },
+  {
+    "filename": "/tables/gr-pl-comp8.uti",
+    "start": 2002663,
+    "end": 2018153
+  },
+  {
+    "filename": "/tables/grc-international-common.uti",
+    "start": 2018153,
+    "end": 2021822
+  },
+  {
+    "filename": "/tables/grc-international-composed.uti",
+    "start": 2021822,
+    "end": 2038126
+  },
+  {
+    "filename": "/tables/grc-international-decomposed.uti",
+    "start": 2038126,
+    "end": 2054572
+  },
+  {
+    "filename": "/tables/grc-international-en-composed.utb",
+    "start": 2054572,
+    "end": 2056739
+  },
+  {
+    "filename": "/tables/grc-international-en.utb",
+    "start": 2056739,
+    "end": 2061582
+  },
+  {
+    "filename": "/tables/grc-international-es.utb",
+    "start": 2061582,
+    "end": 2080339
+  },
+  {
+    "filename": "/tables/gu-in-g1.utb",
+    "start": 2080339,
+    "end": 2081556
+  },
+  {
+    "filename": "/tables/gujarati.cti",
+    "start": 2081556,
+    "end": 2091159
+  },
+  {
+    "filename": "/tables/gurumuki.cti",
+    "start": 2091159,
+    "end": 2109067
+  },
+  {
+    "filename": "/tables/haw-us-g1.ctb",
+    "start": 2109067,
+    "end": 2110649
+  },
+  {
+    "filename": "/tables/hbo-cantillated-rules.uti",
+    "start": 2110649,
+    "end": 2113708
+  },
+  {
+    "filename": "/tables/hbo-cantillated.utb",
+    "start": 2113708,
+    "end": 2117797
+  },
+  {
+    "filename": "/tables/hbo-common-rules.uti",
+    "start": 2117797,
+    "end": 2122339
+  },
+  {
+    "filename": "/tables/hbo-ihbc-rules.uti",
+    "start": 2122339,
+    "end": 2124632
+  },
+  {
+    "filename": "/tables/hbo-slim-rules.uti",
+    "start": 2124632,
+    "end": 2127126
+  },
+  {
+    "filename": "/tables/hbo-slim.utb",
+    "start": 2127126,
+    "end": 2130834
+  },
+  {
+    "filename": "/tables/hbo.utb",
+    "start": 2130834,
+    "end": 2134862
+  },
+  {
+    "filename": "/tables/he-IL-comp8.utb",
+    "start": 2134862,
+    "end": 2154113
+  },
+  {
+    "filename": "/tables/he-IL.utb",
+    "start": 2154113,
+    "end": 2164861
+  },
+  {
+    "filename": "/tables/he-common-consonants.uti",
+    "start": 2164861,
+    "end": 2168096
+  },
+  {
+    "filename": "/tables/he-common-vowels-ihbc.uti",
+    "start": 2168096,
+    "end": 2173582
+  },
+  {
+    "filename": "/tables/hi-in-g1.utb",
+    "start": 2173582,
+    "end": 2174798
+  },
+  {
+    "filename": "/tables/hr-chardefs.cti",
+    "start": 2174798,
+    "end": 2191319
+  },
+  {
+    "filename": "/tables/hr-comp8.utb",
+    "start": 2191319,
+    "end": 2201836
+  },
+  {
+    "filename": "/tables/hr-digits.uti",
+    "start": 2201836,
+    "end": 2203279
+  },
+  {
+    "filename": "/tables/hr-g1.ctb",
+    "start": 2203279,
+    "end": 2204789
+  },
+  {
+    "filename": "/tables/hr-translation.cti",
+    "start": 2204789,
+    "end": 2213259
+  },
+  {
+    "filename": "/tables/hu-backtranslate-correction.dis",
+    "start": 2213259,
+    "end": 2214614
+  },
+  {
+    "filename": "/tables/hu-backtranslate-word-corrections.cti",
+    "start": 2214614,
+    "end": 2488091
+  },
+  {
+    "filename": "/tables/hu-chardefs.cti",
+    "start": 2488091,
+    "end": 2500728
+  },
+  {
+    "filename": "/tables/hu-exceptionwords.cti",
+    "start": 2500728,
+    "end": 2741133
+  },
+  {
+    "filename": "/tables/hu-hu-comp8.ctb",
+    "start": 2741133,
+    "end": 2748350
+  },
+  {
+    "filename": "/tables/hu-hu-g1.ctb",
+    "start": 2748350,
+    "end": 2753163
+  },
+  {
+    "filename": "/tables/hu-hu-g1_braille_input.cti",
+    "start": 2753163,
+    "end": 2771728
+  },
+  {
+    "filename": "/tables/hu-hu-g2.ctb",
+    "start": 2771728,
+    "end": 2785185
+  },
+  {
+    "filename": "/tables/hu-hu-g2_exceptions.cti",
+    "start": 2785185,
+    "end": 2827548
+  },
+  {
+    "filename": "/tables/hy.ctb",
+    "start": 2827548,
+    "end": 2832974
+  },
+  {
+    "filename": "/tables/is.ctb",
+    "start": 2832974,
+    "end": 2838875
+  },
+  {
+    "filename": "/tables/it-it-comp6.utb",
+    "start": 2838875,
+    "end": 2843750
+  },
+  {
+    "filename": "/tables/it-it-comp8.utb",
+    "start": 2843750,
+    "end": 2872599
+  },
+  {
+    "filename": "/tables/iu-ca-g1.ctb",
+    "start": 2872599,
+    "end": 2880771
+  },
+  {
+    "filename": "/tables/ja-kantenji-ucs2.utb",
+    "start": 2880771,
+    "end": 3143065
+  },
+  {
+    "filename": "/tables/ja-kantenji.utb",
+    "start": 3143065,
+    "end": 3144628
+  },
+  {
+    "filename": "/tables/ja-rokutenkanji.utb",
+    "start": 3144628,
+    "end": 3360752
+  },
+  {
+    "filename": "/tables/ka-in-g1.utb",
+    "start": 3360752,
+    "end": 3361967
+  },
+  {
+    "filename": "/tables/ka.utb",
+    "start": 3361967,
+    "end": 3365836
+  },
+  {
+    "filename": "/tables/kannada.cti",
+    "start": 3365836,
+    "end": 3377989
+  },
+  {
+    "filename": "/tables/kh-in-g1.utb",
+    "start": 3377989,
+    "end": 3379181
+  },
+  {
+    "filename": "/tables/kk.utb",
+    "start": 3379181,
+    "end": 3381904
+  },
+  {
+    "filename": "/tables/km-g1.utb",
+    "start": 3381904,
+    "end": 3391069
+  },
+  {
+    "filename": "/tables/kmr.tbl",
+    "start": 3391069,
+    "end": 3395844
+  },
+  {
+    "filename": "/tables/ko-2006-g1.ctb",
+    "start": 3395844,
+    "end": 3397623
+  },
+  {
+    "filename": "/tables/ko-2006-g2.ctb",
+    "start": 3397623,
+    "end": 3399598
+  },
+  {
+    "filename": "/tables/ko-2006.cti",
+    "start": 3399598,
+    "end": 3403557
+  },
+  {
+    "filename": "/tables/ko-chars.cti",
+    "start": 3403557,
+    "end": 3785905
+  },
+  {
+    "filename": "/tables/ko-g1-rules.cti",
+    "start": 3785905,
+    "end": 3809586
+  },
+  {
+    "filename": "/tables/ko-g1.ctb",
+    "start": 3809586,
+    "end": 3811280
+  },
+  {
+    "filename": "/tables/ko-g2-rules.cti",
+    "start": 3811280,
+    "end": 4086056
+  },
+  {
+    "filename": "/tables/ko-g2.ctb",
+    "start": 4086056,
+    "end": 4087952
+  },
+  {
+    "filename": "/tables/ko.cti",
+    "start": 4087952,
+    "end": 4093552
+  },
+  {
+    "filename": "/tables/kok.ctb",
+    "start": 4093552,
+    "end": 4094479
+  },
+  {
+    "filename": "/tables/kru.ctb",
+    "start": 4094479,
+    "end": 4095405
+  },
+  {
+    "filename": "/tables/ks-in-g1.utb",
+    "start": 4095405,
+    "end": 4096624
+  },
+  {
+    "filename": "/tables/latinLetterDef6Dots.uti",
+    "start": 4096624,
+    "end": 4098617
+  },
+  {
+    "filename": "/tables/latinLetterDef8Dots.uti",
+    "start": 4098617,
+    "end": 4100405
+  },
+  {
+    "filename": "/tables/latinLowercase.uti",
+    "start": 4100405,
+    "end": 4110851
+  },
+  {
+    "filename": "/tables/latinUppercaseComp6.uti",
+    "start": 4110851,
+    "end": 4112719
+  },
+  {
+    "filename": "/tables/lg-ug-g1.utb",
+    "start": 4112719,
+    "end": 4114924
+  },
+  {
+    "filename": "/tables/litdigits6Dots.uti",
+    "start": 4114924,
+    "end": 4115881
+  },
+  {
+    "filename": "/tables/litdigits6DotsPlusDot6.uti",
+    "start": 4115881,
+    "end": 4116862
+  },
+  {
+    "filename": "/tables/lo-g1.utb",
+    "start": 4116862,
+    "end": 4265431
+  },
+  {
+    "filename": "/tables/loweredDigits6Dots.uti",
+    "start": 4265431,
+    "end": 4266357
+  },
+  {
+    "filename": "/tables/loweredDigits8Dots.uti",
+    "start": 4266357,
+    "end": 4267293
+  },
+  {
+    "filename": "/tables/lt-6dot.utb",
+    "start": 4267293,
+    "end": 4280269
+  },
+  {
+    "filename": "/tables/lt-8dot.utb",
+    "start": 4280269,
+    "end": 4291717
+  },
+  {
+    "filename": "/tables/lt.ctb",
+    "start": 4291717,
+    "end": 4309206
+  },
+  {
+    "filename": "/tables/malayalam.cti",
+    "start": 4309206,
+    "end": 4327945
+  },
+  {
+    "filename": "/tables/mao-nz-g1.ctb",
+    "start": 4327945,
+    "end": 4329744
+  },
+  {
+    "filename": "/tables/marburg_single_cell_defs.cti",
+    "start": 4329744,
+    "end": 4331259
+  },
+  {
+    "filename": "/tables/marburg_unicode_defs.cti",
+    "start": 4331259,
+    "end": 4346807
+  },
+  {
+    "filename": "/tables/mk-g1.utb",
+    "start": 4346807,
+    "end": 4352327
+  },
+  {
+    "filename": "/tables/ml-in-g1.utb",
+    "start": 4352327,
+    "end": 4353546
+  },
+  {
+    "filename": "/tables/mn-MN-common.cti",
+    "start": 4353546,
+    "end": 4356836
+  },
+  {
+    "filename": "/tables/mn-MN-g1.utb",
+    "start": 4356836,
+    "end": 4358783
+  },
+  {
+    "filename": "/tables/mn-MN-g2.ctb",
+    "start": 4358783,
+    "end": 4360726
+  },
+  {
+    "filename": "/tables/mn-in-g1.utb",
+    "start": 4360726,
+    "end": 4361942
+  },
+  {
+    "filename": "/tables/mr-in-g1.utb",
+    "start": 4361942,
+    "end": 4363160
+  },
+  {
+    "filename": "/tables/ms-my-g2.ctb",
+    "start": 4363160,
+    "end": 4508577
+  },
+  {
+    "filename": "/tables/mt.ctb",
+    "start": 4508577,
+    "end": 4513128
+  },
+  {
+    "filename": "/tables/mun.ctb",
+    "start": 4513128,
+    "end": 4514050
+  },
+  {
+    "filename": "/tables/mwr.ctb",
+    "start": 4514050,
+    "end": 4514977
+  },
+  {
+    "filename": "/tables/my-g1.utb",
+    "start": 4514977,
+    "end": 4535180
+  },
+  {
+    "filename": "/tables/my-g2.ctb",
+    "start": 4535180,
+    "end": 4654392
+  },
+  {
+    "filename": "/tables/ne.ctb",
+    "start": 4654392,
+    "end": 4655284
+  },
+  {
+    "filename": "/tables/nemethdefs.cti",
+    "start": 4655284,
+    "end": 4674574
+  },
+  {
+    "filename": "/tables/nl-BE.dis",
+    "start": 4674574,
+    "end": 4686578
+  },
+  {
+    "filename": "/tables/nl-NL-g0.utb",
+    "start": 4686578,
+    "end": 4716713
+  },
+  {
+    "filename": "/tables/nl-NL-g0.utb.in",
+    "start": 4716713,
+    "end": 4739515
+  },
+  {
+    "filename": "/tables/nl-chardefs.uti",
+    "start": 4739515,
+    "end": 4766928
+  },
+  {
+    "filename": "/tables/nl-chardefs.uti.in",
+    "start": 4766928,
+    "end": 4794205
+  },
+  {
+    "filename": "/tables/nl-comp8.utb",
+    "start": 4794205,
+    "end": 4813980
+  },
+  {
+    "filename": "/tables/nl-print.dis",
+    "start": 4813980,
+    "end": 4824627
+  },
+  {
+    "filename": "/tables/nl-unicode.dis",
+    "start": 4824627,
+    "end": 4841270
+  },
+  {
+    "filename": "/tables/no-no-8dot-fallback-6dot-g0.utb",
+    "start": 4841270,
+    "end": 4843503
+  },
+  {
+    "filename": "/tables/no-no-8dot.utb",
+    "start": 4843503,
+    "end": 4876562
+  },
+  {
+    "filename": "/tables/no-no-braillo-047-01.dis",
+    "start": 4876562,
+    "end": 4884381
+  },
+  {
+    "filename": "/tables/no-no-chardefs6.uti",
+    "start": 4884381,
+    "end": 4898273
+  },
+  {
+    "filename": "/tables/no-no-comp8.ctb",
+    "start": 4898273,
+    "end": 4919288
+  },
+  {
+    "filename": "/tables/no-no-cyrillic6dot.uti",
+    "start": 4919288,
+    "end": 4924326
+  },
+  {
+    "filename": "/tables/no-no-g0.utb",
+    "start": 4924326,
+    "end": 4932790
+  },
+  {
+    "filename": "/tables/no-no-g1.ctb",
+    "start": 4932790,
+    "end": 4939605
+  },
+  {
+    "filename": "/tables/no-no-g2.ctb",
+    "start": 4939605,
+    "end": 4955446
+  },
+  {
+    "filename": "/tables/no-no-g3.ctb",
+    "start": 4955446,
+    "end": 4974458
+  },
+  {
+    "filename": "/tables/no-no-generic.ctb",
+    "start": 4974458,
+    "end": 4987936
+  },
+  {
+    "filename": "/tables/no-no-generic.dis",
+    "start": 4987936,
+    "end": 5002109
+  },
+  {
+    "filename": "/tables/no-no-latinLetterDef6Dots_diacritics.uti",
+    "start": 5002109,
+    "end": 5054114
+  },
+  {
+    "filename": "/tables/no-no.dis",
+    "start": 5054114,
+    "end": 5067758
+  },
+  {
+    "filename": "/tables/np-in-g1.utb",
+    "start": 5067758,
+    "end": 5068975
+  },
+  {
+    "filename": "/tables/nso-za-g1.utb",
+    "start": 5068975,
+    "end": 5070369
+  },
+  {
+    "filename": "/tables/nso-za-g2.ctb",
+    "start": 5070369,
+    "end": 5071760
+  },
+  {
+    "filename": "/tables/ny-mw.utb",
+    "start": 5071760,
+    "end": 5074320
+  },
+  {
+    "filename": "/tables/or-in-g1.utb",
+    "start": 5074320,
+    "end": 5075531
+  },
+  {
+    "filename": "/tables/oriya.cti",
+    "start": 5075531,
+    "end": 5085064
+  },
+  {
+    "filename": "/tables/pi.ctb",
+    "start": 5085064,
+    "end": 5085988
+  },
+  {
+    "filename": "/tables/pl-pl-comp8.ctb",
+    "start": 5085988,
+    "end": 5104325
+  },
+  {
+    "filename": "/tables/printables.cti",
+    "start": 5104325,
+    "end": 5106159
+  },
+  {
+    "filename": "/tables/pt-comp6.utb",
+    "start": 5106159,
+    "end": 5121414
+  },
+  {
+    "filename": "/tables/pt-pt-comp8.ctb",
+    "start": 5121414,
+    "end": 5146592
+  },
+  {
+    "filename": "/tables/pt-pt-g1.utb",
+    "start": 5146592,
+    "end": 5154959
+  },
+  {
+    "filename": "/tables/pu-in-g1.utb",
+    "start": 5154959,
+    "end": 5156820
+  },
+  {
+    "filename": "/tables/quotation-marks.uti",
+    "start": 5156820,
+    "end": 5158000
+  },
+  {
+    "filename": "/tables/ro-g0.utb",
+    "start": 5158000,
+    "end": 5160812
+  },
+  {
+    "filename": "/tables/ro.ctb",
+    "start": 5160812,
+    "end": 5165820
+  },
+  {
+    "filename": "/tables/ru-brf.dis",
+    "start": 5165820,
+    "end": 5168346
+  },
+  {
+    "filename": "/tables/ru-comp6.utb",
+    "start": 5168346,
+    "end": 5175617
+  },
+  {
+    "filename": "/tables/ru-comp8.utb",
+    "start": 5175617,
+    "end": 5211391
+  },
+  {
+    "filename": "/tables/ru-letters.dis",
+    "start": 5211391,
+    "end": 5214223
+  },
+  {
+    "filename": "/tables/ru-litbrl-detailed.utb",
+    "start": 5214223,
+    "end": 5218339
+  },
+  {
+    "filename": "/tables/ru-litbrl.ctb",
+    "start": 5218339,
+    "end": 5253515
+  },
+  {
+    "filename": "/tables/ru-ru-g1.ctb",
+    "start": 5253515,
+    "end": 5272474
+  },
+  {
+    "filename": "/tables/ru-unicode.dis",
+    "start": 5272474,
+    "end": 5275499
+  },
+  {
+    "filename": "/tables/rw-rw-g1.utb",
+    "start": 5275499,
+    "end": 5278484
+  },
+  {
+    "filename": "/tables/sa-in-g1.utb",
+    "start": 5278484,
+    "end": 5279703
+  },
+  {
+    "filename": "/tables/sah.utb",
+    "start": 5279703,
+    "end": 5282347
+  },
+  {
+    "filename": "/tables/se-se.ctb",
+    "start": 5282347,
+    "end": 5292588
+  },
+  {
+    "filename": "/tables/se-se.dis",
+    "start": 5292588,
+    "end": 5307279
+  },
+  {
+    "filename": "/tables/si-in-g1.utb",
+    "start": 5307279,
+    "end": 5308496
+  },
+  {
+    "filename": "/tables/sin.cti",
+    "start": 5308496,
+    "end": 5319460
+  },
+  {
+    "filename": "/tables/sin.utb",
+    "start": 5319460,
+    "end": 5320815
+  },
+  {
+    "filename": "/tables/sk-g1.ctb",
+    "start": 5320815,
+    "end": 5398913
+  },
+  {
+    "filename": "/tables/sk-sk-g1.utb",
+    "start": 5398913,
+    "end": 5404848
+  },
+  {
+    "filename": "/tables/sk-sk.utb",
+    "start": 5404848,
+    "end": 5407896
+  },
+  {
+    "filename": "/tables/sl-si-comp8.ctb",
+    "start": 5407896,
+    "end": 5416841
+  },
+  {
+    "filename": "/tables/sl-si-g1.utb",
+    "start": 5416841,
+    "end": 5433061
+  },
+  {
+    "filename": "/tables/sot-za-g1.ctb",
+    "start": 5433061,
+    "end": 5435781
+  },
+  {
+    "filename": "/tables/sot-za-g2.ctb",
+    "start": 5435781,
+    "end": 5442057
+  },
+  {
+    "filename": "/tables/spaces.uti",
+    "start": 5442057,
+    "end": 5444165
+  },
+  {
+    "filename": "/tables/sv-1989.ctb",
+    "start": 5444165,
+    "end": 5453769
+  },
+  {
+    "filename": "/tables/sv-1996.ctb",
+    "start": 5453769,
+    "end": 5461509
+  },
+  {
+    "filename": "/tables/sv-g0.utb",
+    "start": 5461509,
+    "end": 5476208
+  },
+  {
+    "filename": "/tables/sv-g1.ctb",
+    "start": 5476208,
+    "end": 5479476
+  },
+  {
+    "filename": "/tables/sv-g2.ctb",
+    "start": 5479476,
+    "end": 5486305
+  },
+  {
+    "filename": "/tables/sw-ke-g1-2.ctb",
+    "start": 5486305,
+    "end": 5489099
+  },
+  {
+    "filename": "/tables/sw-ke-g1-3.ctb",
+    "start": 5489099,
+    "end": 5492244
+  },
+  {
+    "filename": "/tables/sw-ke-g1-4.ctb",
+    "start": 5492244,
+    "end": 5495673
+  },
+  {
+    "filename": "/tables/sw-ke-g1-5.ctb",
+    "start": 5495673,
+    "end": 5498313
+  },
+  {
+    "filename": "/tables/sw-ke-g1.utb",
+    "start": 5498313,
+    "end": 5505481
+  },
+  {
+    "filename": "/tables/sw-ke-g2.ctb",
+    "start": 5505481,
+    "end": 5513827
+  },
+  {
+    "filename": "/tables/syc.utb",
+    "start": 5513827,
+    "end": 5520812
+  },
+  {
+    "filename": "/tables/ta-ta-g1.ctb",
+    "start": 5520812,
+    "end": 5525851
+  },
+  {
+    "filename": "/tables/ta.ctb",
+    "start": 5525851,
+    "end": 5526771
+  },
+  {
+    "filename": "/tables/tamil.cti",
+    "start": 5526771,
+    "end": 5529989
+  },
+  {
+    "filename": "/tables/te-in-g1.utb",
+    "start": 5529989,
+    "end": 5531202
+  },
+  {
+    "filename": "/tables/telugu.cti",
+    "start": 5531202,
+    "end": 5541179
+  },
+  {
+    "filename": "/tables/text_nabcc.dis",
+    "start": 5541179,
+    "end": 5562829
+  },
+  {
+    "filename": "/tables/th-comp8-backward.utb",
+    "start": 5562829,
+    "end": 5569864
+  },
+  {
+    "filename": "/tables/th-g0.utb",
+    "start": 5569864,
+    "end": 5574943
+  },
+  {
+    "filename": "/tables/th-g1.utb",
+    "start": 5574943,
+    "end": 5579479
+  },
+  {
+    "filename": "/tables/th-g1.uti",
+    "start": 5579479,
+    "end": 5594100
+  },
+  {
+    "filename": "/tables/th-g2.ctb",
+    "start": 5594100,
+    "end": 5645405
+  },
+  {
+    "filename": "/tables/tr-g1.ctb",
+    "start": 5645405,
+    "end": 5652764
+  },
+  {
+    "filename": "/tables/tr-g2.ctb",
+    "start": 5652764,
+    "end": 5683541
+  },
+  {
+    "filename": "/tables/tr.ctb",
+    "start": 5683541,
+    "end": 5705478
+  },
+  {
+    "filename": "/tables/tsn-za-g1.ctb",
+    "start": 5705478,
+    "end": 5706620
+  },
+  {
+    "filename": "/tables/tsn-za-g2.ctb",
+    "start": 5706620,
+    "end": 5707759
+  },
+  {
+    "filename": "/tables/tt.utb",
+    "start": 5707759,
+    "end": 5710437
+  },
+  {
+    "filename": "/tables/uga.utb",
+    "start": 5710437,
+    "end": 5713201
+  },
+  {
+    "filename": "/tables/uk-comp.utb",
+    "start": 5713201,
+    "end": 5715109
+  },
+  {
+    "filename": "/tables/uk-detailed.utb",
+    "start": 5715109,
+    "end": 5716140
+  },
+  {
+    "filename": "/tables/uk.utb",
+    "start": 5716140,
+    "end": 5719649
+  },
+  {
+    "filename": "/tables/ukchardefs.cti",
+    "start": 5719649,
+    "end": 5722883
+  },
+  {
+    "filename": "/tables/ukmaths_single_cell_defs.cti",
+    "start": 5722883,
+    "end": 5724415
+  },
+  {
+    "filename": "/tables/ukmaths_unicode_defs.cti",
+    "start": 5724415,
+    "end": 5739964
+  },
+  {
+    "filename": "/tables/uni-text.dis",
+    "start": 5739964,
+    "end": 5754580
+  },
+  {
+    "filename": "/tables/unicode-braille.utb",
+    "start": 5754580,
+    "end": 5779413
+  },
+  {
+    "filename": "/tables/unicode-without-blank.dis",
+    "start": 5779413,
+    "end": 5780315
+  },
+  {
+    "filename": "/tables/unicode.dis",
+    "start": 5780315,
+    "end": 5786289
+  },
+  {
+    "filename": "/tables/ur-pk-g1.utb",
+    "start": 5786289,
+    "end": 5798541
+  },
+  {
+    "filename": "/tables/ur-pk-g2.ctb",
+    "start": 5798541,
+    "end": 5852040
+  },
+  {
+    "filename": "/tables/us-table.dis",
+    "start": 5852040,
+    "end": 5853602
+  },
+  {
+    "filename": "/tables/uz-g1.utb",
+    "start": 5853602,
+    "end": 5857140
+  },
+  {
+    "filename": "/tables/ve-za-g1.utb",
+    "start": 5857140,
+    "end": 5859842
+  },
+  {
+    "filename": "/tables/ve-za-g2.ctb",
+    "start": 5859842,
+    "end": 5864684
+  },
+  {
+    "filename": "/tables/vi-cb8.utb",
+    "start": 5864684,
+    "end": 5866625
+  },
+  {
+    "filename": "/tables/vi-charsdef.uti",
+    "start": 5866625,
+    "end": 5867868
+  },
+  {
+    "filename": "/tables/vi-lettersdef.uti",
+    "start": 5867868,
+    "end": 5878900
+  },
+  {
+    "filename": "/tables/vi-puncsdef.uti",
+    "start": 5878900,
+    "end": 5891704
+  },
+  {
+    "filename": "/tables/vi-saigon-g1.ctb",
+    "start": 5891704,
+    "end": 5913601
+  },
+  {
+    "filename": "/tables/vi-vn-g0.utb",
+    "start": 5913601,
+    "end": 5916844
+  },
+  {
+    "filename": "/tables/vi-vn-g1.ctb",
+    "start": 5916844,
+    "end": 5934353
+  },
+  {
+    "filename": "/tables/vi-vn-g2.ctb",
+    "start": 5934353,
+    "end": 5956910
+  },
+  {
+    "filename": "/tables/wiskunde-chardefs.cti",
+    "start": 5956910,
+    "end": 5975469
+  },
+  {
+    "filename": "/tables/wordcx.dis",
+    "start": 5975469,
+    "end": 5979322
+  },
+  {
+    "filename": "/tables/xh-za-g1.utb",
+    "start": 5979322,
+    "end": 5981587
+  },
+  {
+    "filename": "/tables/xh-za-g2.ctb",
+    "start": 5981587,
+    "end": 5990449
+  },
+  {
+    "filename": "/tables/yi.utb",
+    "start": 5990449,
+    "end": 6001999
+  },
+  {
+    "filename": "/tables/zh-chn.ctb",
+    "start": 6001999,
+    "end": 7265135
+  },
+  {
+    "filename": "/tables/zh-hk.ctb",
+    "start": 7265135,
+    "end": 7530361
+  },
+  {
+    "filename": "/tables/zh-tw.ctb",
+    "start": 7530361,
+    "end": 8997931
+  },
+  {
+    "filename": "/tables/zhcn-cbs.ctb",
+    "start": 8997931,
+    "end": 10062554
+  },
+  {
+    "filename": "/tables/zhcn-g1.ctb",
+    "start": 10062554,
+    "end": 10738639
+  },
+  {
+    "filename": "/tables/zhcn-g2.ctb",
+    "start": 10738639,
+    "end": 11356239
+  },
+  {
+    "filename": "/tables/zu-za-g1.utb",
+    "start": 11356239,
+    "end": 11357308
+  },
+  {
+    "filename": "/tables/zu-za-g2.ctb",
+    "start": 11357308,
+    "end": 11358375
+  }
+]
